@@ -1,4 +1,3 @@
-package notificacao;
 
 public class PushNotificacao implements Notificacao {
     @Override

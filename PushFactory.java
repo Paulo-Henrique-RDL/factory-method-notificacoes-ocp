@@ -1,4 +1,3 @@
-package notificacao;
 
 public class PushFactory extends NotificacaoFactory {
     @Override

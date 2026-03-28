@@ -1,4 +1,3 @@
-package notificacao;
 
 public class SmsNotificacao implements Notificacao {
     @Override

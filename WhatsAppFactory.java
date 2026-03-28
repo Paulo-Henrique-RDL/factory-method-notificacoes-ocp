@@ -1,4 +1,3 @@
-package notificacao;
 
 public class WhatsAppFactory extends NotificacaoFactory {
     @Override

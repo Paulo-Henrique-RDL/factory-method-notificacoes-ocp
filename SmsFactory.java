@@ -1,4 +1,3 @@
-package notificacao;
 
 public class SmsFactory extends NotificacaoFactory {
     @Override

@@ -1,4 +1,3 @@
-package notificacao;
 
 public class WhatsAppNotificacao implements Notificacao {
     @Override
